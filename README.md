@@ -36,7 +36,7 @@ Make sure you have the following installed:
    **Get all merge requests or issues for a specific year.**
 
    ```bash
-   docker run --rm gitlab-api get_mr_issues --option mr --year 2024
+   docker run --rm gitlab-api get_mr_issues --option (mr, issues) --year year
    ```
 
    **Grant or change user permissions on a group or project**
