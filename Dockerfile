@@ -1,4 +1,4 @@
-FROM alpine:3.20.1 as build-image
+FROM alpine:3.20.1
 
 ARG GITLAB_API_URL=https://gitlab.com/api/v4
 ARG GITLAB_API_TOKEN
