@@ -1,6 +1,7 @@
-# Git Lab Python Script Docker
+# GitLab API Python Script Docker
 
 This repository contains a Python script that runs within a Docker container. This README provides instructions on how to set up and run the script using Docker.
+The script is responsible for granting or creating permissions for users on groups or projects. It also retrieves all the merge requests or issues for a specified year in JSON format.
 
 ## Prerequisites
 

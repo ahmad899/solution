@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# glpat-CghkqenDZxrJxo4pzEqc
 
 import os
 import sys
